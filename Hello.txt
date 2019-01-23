@@ -3,3 +3,4 @@ Hello Kitty2
 new line from another guy
 line from user1
 new dev line
+new line from master
